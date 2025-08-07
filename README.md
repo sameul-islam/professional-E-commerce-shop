@@ -17,9 +17,9 @@ If you wish, feel free to modify this project to improve it or to use it in your
 Thank you very much for taking the time to read my words.
 
 ---
-## 🔗 Live Demo
+##  Live Demo
 
-If you'd like to see this project live in action, [**click here**](🔗 https://sameul-islam.github.io/professional-E-commerce-shop/) to explore it in your browser.
+If you'd like to see this project live in action, [**click here**](https://sameul-islam.github.io/professional-E-commerce-shop/) to explore it in your browser.
 
 This project includes several modern features. You can zoom in on product images for a closer look, interact with various UI elements, and enjoy a clean and responsive design.
 
