@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css" integrity="sha512-DxV+EoADOkOygM4IR9yXP8Sb2qwgidEmeqAEmDKIOfPRQZOWbXCzLC6vjbZyy0vPisbH2SyW27+ddLVCN+OMzQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <title>Modern E-Commerce Shop</title>
+</head>
+<body>
+  <header>
+    <h1>E-Commerce Shop</h1>
+    <div class="filters">
+      <input type="text" id="searchInput" placeholder="Search products..." />
+      <select id="categoryFilter">
+        <option value="all">All Categories</option>
+        <option value="clothing">Clothing</option>
+        <option value="electronics">Electronics</option>
+      </select>
+      <select id="sortPrice">
+        <option value="default" selected>Sort by Price</option>
+        <option value="low-high">Low to High</option>
+        <option value="high-low">High to Low</option>
+      </select>
+      <button id="toggleTheme"><i class="fa-solid fa-moon"></i>Dark Mode</button>
+    </div>
+  </header>
+
+  <main>
+    <section id="products" class="products"></section>
+    <button id="loadMore" class="load-more">Load More</button>
+  </main>
+
+  <section class="cart-section">
+    <h2><i class="fa-solid fa-cart-shopping"></i>Cart</h2>
+    <div id="cart" class="cart"></div>
+    <div id="total" class="total">Total: $0</div>
+    <button id="clearCart">Clear Cart</button>
+  </section>
+
+  <div id="toast" class="toast"></div>
+
+  <div id="productModal" class="modal">
+    <div class="modal-content">
+      <span id="closeModal" class="close"><i class="fa-solid fa-xmark"></i></span>
+      <img id="modalImage" src="" alt="" />
+      <h2 id="modalTitle"></h2>
+      <p id="modalPrice"></p>
+      <p id="modalCategory"></p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,156 @@
+[
+    {
+        "id": 1,
+        "title": "Coat-For-Him",
+        "price": 35,
+        "category": "clothing",
+        "image": "img180 (9).jpg"
+    },
+    {
+        "id": 2,
+        "title": "Shoe",
+        "price": 25,
+        "category": "clothing",
+        "image": "img180 (3).jpg"
+    },
+    {
+        "id": 3,
+        "title": "T-shirt",
+        "price": 15,
+        "category": "clothing",
+        "image": "img180 (4).jpg"
+    },
+    {
+        "id": 4,
+        "title": "Hat",
+        "price": 17,
+        "category": "clothing",
+        "image": "img180 (6).jpg"
+    },
+    {
+        "id": 5,
+        "title": "Gloves",
+        "price": 16,
+        "category": "clothing",
+        "image": "img180 (5).jpg"
+    },
+    {
+        "id": 6,
+        "title": "Coat-For-Her",
+        "price": 20,
+        "category": "clothing",
+        "image": "img180 (7).jpg"
+    },
+    {
+        "id": 7,
+        "title": "Popular-T-shirt",
+        "price": 16,
+        "category": "clothing",
+        "image": "img180 (10).jpg"
+    },
+    {
+        "id": 8,
+        "title": "Watch",
+        "price": 28,
+        "category": "clothing",
+        "image": "img23 (1).jpg"
+    },
+    {
+        "id": 9,
+        "title": "SmartPhone",
+        "price": 500,
+        "category": "electronics",
+        "image": "img180 (1).jpg"
+    },
+    {
+        "id": 10,
+        "title": "Laptop",
+        "price": 1000,
+        "category": "electronics",
+        "image": "img22 (1).jpg"
+    },
+    {
+        "id": 11,
+        "title": "Specker",
+        "price": 600,
+        "category": "electronics",
+        "image": "img22 (2).jpg"
+    },
+    {
+        "id": 12,
+        "title": "Camera",
+        "price": 1400,
+        "category": "electronics",
+        "image": "img180 (11).jpg"
+    },
+    {
+        "id": 13,
+        "title": "HeadPhone",
+        "price": 250,
+        "category": "electronics",
+        "image": "img180 (12).jpg"
+    },
+    {
+        "id": 14,
+        "title": "Computer",
+        "price": 1950,
+        "category": "electronics",
+        "image": "img23 (2).jpg"
+    },
+    {
+        "id": 15,
+        "title": "Glasses",
+        "price": 250,
+        "category": "clothing",
+        "image": "img180 (8).jpg"
+    },
+    {
+        "id": 16,
+        "title": "Shoe",
+        "price": 350,
+        "category": "clothing",
+        "image": "img133.jpg"
+    },
+    {
+        "id": 17,
+        "title": "Shoe",
+        "price": 450,
+        "category": "clothing",
+        "image": "img126.jpg"
+    },
+    {
+        "id": 18,
+        "title": "Pants for her",
+        "price": 270,
+        "category": "clothing",
+        "image": "img97.jpg"
+    },
+    {
+        "id": 19,
+        "title": "Pants for him",
+        "price": 480,
+        "category": "clothing",
+        "image": "img87.jpg"
+    },
+    {
+        "id": 20,
+        "title": "Pants for her",
+        "price": 280,
+        "category": "clothing",
+        "image": "img84.jpg"
+    },
+    {
+        "id": 21,
+        "title": "Pants for her",
+        "price": 300,
+        "category": "clothing",
+        "image": "img80.jpg"
+    },
+    {
+        "id": 22,
+        "title": "Pants for her",
+        "price": 310,
+        "category": "clothing",
+        "image": "img77.jpg"
+    }
+]
